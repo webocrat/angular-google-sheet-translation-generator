@@ -24,7 +24,7 @@
     "build": "npm rum import-translations && ng build",
 
 */
-var googleSheetsLink = "https://docs.google.com/spreadsheets/d/16v1Ave2npQNGZfWJp-ywXN_leqzJiAuMIY4wPaHhMN8/edit#gid=0"
+var googleSheetsLink = "https://docs.google.com/spreadsheets/d/000000000000000000-0000-00000000000000000000/edit#gid=0"
 var outputPath = "src/assets/i18n/"
 
 // removing "/edit# suffix",
